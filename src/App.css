@@ -1,0 +1,25 @@
+/* .border-2 {
+  background-color: ;
+} */
+.big_title {
+  font-size: 50px;
+}
+.group-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 0 10px #d0d0d0;
+  border-radius: 10px;
+  height: 150px;
+  margin: 50px;
+}
+.line {
+  height: 100px;
+  background: #e6dfdf;
+  width: 2px;
+}
+.price-card {
+  width: 330px;
+  padding: 30px;
+  border-radius: 10px;
+}
