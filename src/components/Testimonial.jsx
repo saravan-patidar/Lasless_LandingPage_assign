@@ -6,7 +6,6 @@ const Testimonial = () => {
   return (
     <div className="container mx-auto">
       <Heading content={headingData?.testimonialHeadings} />
-
       <Carousal />
     </div>
   );

@@ -13,6 +13,12 @@
   height: 150px;
   margin: 50px;
 }
+.card2 {
+  box-shadow: 0 0 10px #d0d0d0;
+  border-radius: 10px;
+  height: 150px;
+  margin: 10px;
+}
 .line {
   height: 100px;
   background: #e6dfdf;
@@ -22,4 +28,21 @@
   width: 330px;
   padding: 30px;
   border-radius: 10px;
+}
+.swiper-slide {
+  min-width: 300px;
+  min-height: 250px;
+  transition: all 1s ease-in-out;
+  flex: none;
+  border: 2px solid #dadadabd;
+}
+.footer {
+  height: 500px;
+  padding-block: 70px;
+  box-shadow: 0 0 2px #e9e9e9bd;
+  background-color: #f2f2f276;
+}
+.icons {
+  font-size: 35px;
+  color: red;
 }
