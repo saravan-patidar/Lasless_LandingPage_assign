@@ -7,7 +7,7 @@ const Global = () => {
     <div className="container mx-auto">
       <Heading content={headingData?.globalHeadings} />
       <div>
-        <img src={mapImg} alt="" />
+        <img src={mapImg} alt="" className="w-100" />
       </div>
     </div>
   );

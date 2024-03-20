@@ -3,8 +3,8 @@ import Logo from "../assets/Logo.svg";
 
 const Footer = () => {
   return (
-    <div className="footer ">
-      <div className="container  d-flex align-items-start justify-content-between p-3  ">
+    <div id="help" className="footer ">
+      <div className="container flex-wrap flex-md-nowrap  d-flex align-items-start justify-content-between p-3  ">
         <div className="col-5 d-flex flex-column align-items-start gap-3  ">
           <img src={Logo} alt="" />
           <p>

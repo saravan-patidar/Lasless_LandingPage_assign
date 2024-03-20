@@ -4,7 +4,7 @@ import Heading from "./Heading";
 
 const Testimonial = () => {
   return (
-    <div className="container mx-auto">
+    <div id="testimonials" className="container mx-auto">
       <Heading content={headingData?.testimonialHeadings} />
       <Carousal />
     </div>

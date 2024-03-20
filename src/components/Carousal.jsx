@@ -12,7 +12,7 @@ const Carousal = () => {
   return (
     <div className=" p-3">
       <Swiper
-        slidesPerView={3}
+        slidesPerView={2}
         spaceBetween={30}
         navigation={{
           nextEl: ".swiper-button-next",
